@@ -1,4 +1,13 @@
 BREAK ME
+<<<<<<< HEAD
+=======
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse\merge-conflict> cd ..
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> ls(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> cd .\merge-conflict\
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse\merge-conflict> cd ..
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> ls(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> cd .\merge-conflict\
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse\merge-conflict> cd ..
+(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> ls(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> cd .\merge-conflict\
+>>>>>>> master
 (base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse\merge-conflict> cd ..
 (base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> ls(base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse> cd .\merge-conflict\
 (base) PS C:\Users\nemci\OneDrive\Počítač\GitCourse\merge-conflict> cd ..
